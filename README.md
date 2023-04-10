@@ -1,2 +1,2 @@
 # vital-signals-analysis
-Análise de sinais vitais utilizando Python.
+Análise exploratoria de sinais vitais utilizando Python.
